@@ -1,6 +1,8 @@
 # Cloud Foundry Node.js Buildpack
 [![CF Slack](https://s3.amazonaws.com/buildpacks-assets/buildpacks-slack.svg)](http://slack.cloudfoundry.org)
+
 Added Node Engine version 0.10.33 to the Cloud Foundry NodeJs Buildpack
+
 A Cloud Foundry [buildpack](http://docs.cloudfoundry.org/buildpacks/) for Node based apps.
 
 This is based on the [Heroku buildpack] (https://github.com/heroku/heroku-buildpack-nodejs).
